@@ -1,5 +1,5 @@
 # ChocoLift
-Barre protéinée fictive à saveur de kinder bueno
+## Barre protéinée fictive à saveur de kinder bueno
 
 Réalisé à l'occasion de mes deuxième partiels de première année (avril 2023).
 
